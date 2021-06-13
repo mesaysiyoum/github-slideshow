@@ -2,4 +2,4 @@
 layout: "welcome to our second slide!"
 ---
 Your text
-use the left arrow to go back!
+use the right arrow to go forward!
